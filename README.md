@@ -123,24 +123,6 @@ MIT License. Feel free to use and modify.
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
-
----
-
-## 📬 Contact
-
-Created by \[Your Name] - feel free to reach out via [LinkedIn](https://linkedin.com/in/yourprofile) or open an issue!
-
----
-
-## 📢 Show some love
-
-If you found this helpful, give it a ⭐️ on GitHub and share it on LinkedIn!
-
----
-
 ## 🔗 Hashtags for Social Sharing
 
 ```
