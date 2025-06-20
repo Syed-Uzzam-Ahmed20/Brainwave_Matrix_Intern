@@ -16,9 +16,11 @@ The **Phishing Link Scanner** is a Python-based tool designed to detect and clas
 ## 📽️ Demo
 
 Check out the video demonstration on how the tool works: 
+
 LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7341883789419167745/
 
-🧠 How It Works
+🧠 How It Works:-
+
 -The scanner performs the following checks:
 
 -Checks for known URL shorteners (bit.ly, tinyurl, etc.)
