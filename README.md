@@ -20,15 +20,24 @@ LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:73418837894191677
 
 🧠 How It Works
 -The scanner performs the following checks:
+
 -Checks for known URL shorteners (bit.ly, tinyurl, etc.)
+
 -Validates domain reputation and age (WHOIS)
+
 -Examines redirection chains
+
 -Matches against blacklists (optional APIs)
+
 -Flags use of IP-based domains or suspicious patterns
 
 
 Use Cases:-
+
 -SOC automation
+
 -Email phishing simulations
+
 -Web proxy integration
+
 -Awareness training programs
